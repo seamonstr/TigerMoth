@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="S1.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   width="290mm"
+   height="100mm"
+   viewBox="0 0 290 100"
+   version="1.1"
+   id="svg1028">
+  <defs
+     id="defs1022" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="26"
+     inkscape:window-height="696"
+     inkscape:window-width="1274"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="156.55452"
+     inkscape:cx="574.36621"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata1025">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       d="M 24.677734,12.152344 16.539062,35.195312 H 14.855469 L 4.8925781,62.978516 h 1.7773438 l -4.6289063,13.330078 22.8710934,2.478515 -0.1875,3.179688 62.535157,6.783203 0.232422,-3.087891 23.714842,2.572266 -0.375,4.818359 5.19141,0.02344 -0.0469,-16.767578 c 21.10364,-3.314629 48.39136,-1.423601 78.95313,3.226562 l 1.02734,-6.267578 12.44141,2.246094 -0.98047,6.265625 10.00781,1.824219 c 3.04079,1.287084 4.47786,5.450789 5.09961,6.783203 l 77.40625,-7.109375 -68.38086,-71.125 z"
+       inkscape:original="M 24.677734 12.152344 L 16.539062 35.195312 L 14.855469 35.195312 L 4.8925781 62.978516 L 6.6699219 62.978516 L 2.0410156 76.308594 L 24.912109 78.787109 L 24.724609 81.966797 L 87.259766 88.75 L 87.492188 85.662109 L 111.20703 88.234375 L 110.83203 93.052734 L 116.02344 93.076172 L 115.97656 76.308594 C 137.0802 72.993965 164.36792 74.884993 194.92969 79.535156 L 195.95703 73.267578 L 208.39844 75.513672 L 207.41797 81.779297 L 217.42578 83.603516 C 220.46657 84.8906 221.90364 89.054305 222.52539 90.386719 L 299.93164 83.277344 L 231.55078 12.152344 L 24.677734 12.152344 z "
+       inkscape:radius="0"
+       sodipodi:type="inkscape:offset"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path939" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path941"
+       d="m 226.7807,62.931093 1.53095,-0.0468 -2e-5,-27.689004 h -1.52135 l 1e-5,27.689004"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 110.51867,62.931163 1.64658,-0.0468 V 35.195389 h -1.637 l 1e-5,27.689004"
+       id="path941-5"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path958"
+       d="m 146.47283,56.383009 h 41.67404 v 3.320822 h -41.67404 z"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="path960"
+       d="m 144.50841,67.234116 h 33.72278 c 1.25218,0.608037 1.01773,2.198278 -0.0468,2.806315 H 144.4616 c -1.73579,-0.234077 -1.38383,-2.899862 0.0468,-2.806315 z"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
