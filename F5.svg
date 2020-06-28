@@ -9,80 +9,86 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg1028"
    version="1.1"
-   viewBox="0 0 290 100"
-   height="100mm"
-   width="290mm"
+   viewBox="0 0 290.33948 170"
+   height="170mm"
+   width="290.33948mm"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="F5.svg">
   <defs
      id="defs1022">
     <marker
-       id="CheckToolsAndOPMarker"
-       orient="auto"
-       refX="-4"
+       style="overflow:visible"
        refY="-1.687441"
-       style="overflow:visible">
+       refX="-4"
+       orient="auto"
+       id="CheckToolsAndOPMarker">
       <path
-         d="m 4.588864,-1.687441 0.0,0.0 L 9.177728,0.0 c -0.73311,-0.996261 -0.728882,-2.359329 0.0,-3.374882"
+         id="path309"
          style="fill:#000044;fill-rule:evenodd;stroke:none"
-         id="path309" />
+         d="m 4.588864,-1.687441 v 0 L 9.177728,0 c -0.73311,-0.996261 -0.728882,-2.359329 0,-3.374882" />
     </marker>
     <marker
-       id="DrawCurveMarker"
-       orient="auto"
-       refX="-4"
+       style="overflow:visible"
        refY="-1.687441"
-       style="overflow:visible">
+       refX="-4"
+       orient="auto"
+       id="DrawCurveMarker">
       <path
-         d="m 4.588864,-1.687441 0.0,0.0 L 9.177728,0.0 c -0.73311,-0.996261 -0.728882,-2.359329 0.0,-3.374882"
+         id="path312"
          style="fill:#000044;fill-rule:evenodd;stroke:none"
-         id="path312" />
+         d="m 4.588864,-1.687441 v 0 L 9.177728,0 c -0.73311,-0.996261 -0.728882,-2.359329 0,-3.374882" />
     </marker>
     <marker
-       id="DrawCurveMarker_r"
-       orient="auto"
+       style="overflow:visible"
+       refY="-1.687441"
        refX="4"
-       refY="-1.687441"
-       style="overflow:visible">
+       orient="auto"
+       id="DrawCurveMarker_r">
       <path
-         d="m -4.588864,-1.687441 0.0,0.0 L -9.177728,0.0 c 0.73311,-0.996261 0.728882,-2.359329 0.0,-3.374882"
+         id="path315"
          style="fill:#000044;fill-rule:evenodd;stroke:none"
-         id="path315" />
+         d="m -4.588864,-1.687441 v 0 L -9.177728,0 c 0.73311,-0.996261 0.728882,-2.359329 0,-3.374882" />
     </marker>
     <marker
-       id="InOutPathMarker"
-       orient="auto"
-       refX="-4"
+       style="overflow:visible"
        refY="-1.687441"
-       style="overflow:visible">
+       refX="-4"
+       orient="auto"
+       id="InOutPathMarker">
       <path
-         d="m 4.588864,-1.687441 0.0,0.0 L 9.177728,0.0 c -0.73311,-0.996261 -0.728882,-2.359329 0.0,-3.374882"
+         id="path318"
          style="fill:#0072a7;fill-rule:evenodd;stroke:none"
-         id="path318" />
+         d="m 4.588864,-1.687441 v 0 L 9.177728,0 c -0.73311,-0.996261 -0.728882,-2.359329 0,-3.374882" />
     </marker>
   </defs>
   <sodipodi:namedview
-     inkscape:snap-global="false"
-     inkscape:guide-bbox="true"
-     showguides="true"
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="536.63154"
-     inkscape:cy="249.30041"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1274"
-     inkscape:window-height="696"
-     inkscape:window-x="68"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     width="290in"
+     units="mm"
+     inkscape:window-maximized="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-x="68"
+     inkscape:window-height="696"
+     inkscape:window-width="1274"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="303.44261"
+     inkscape:cx="498.14643"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata1025">
     <rdf:RDF>
@@ -91,293 +97,371 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     sodipodi:insensitive="true"
-     inkscape:label="Layer 1"
+     transform="translate(0,39.038982)"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="Layer 1">
     <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 230.75017,94.413581 v -16.67688 c -0.1937,-2.143498 -1.88575,-3.243969 -3.64842,-3.308588 -0.88347,-0.0324 -1.74163,0.219448 -2.38867,0.744138 -0.64421,0.52238 -1.12188,1.313251 -1.23633,2.566411 v 34.578108 c 0.42897,2.14492 2.02368,3.23217 3.60937,3.29688 1.58528,0.0647 3.14336,-0.79671 3.66405,-3.29883 V 97.153101"
+       id="path2752-31"
+       sodipodi:nodetypes="ccssccscc" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 212.08222,48.911029 V 61.252307 H 211.508 c -0.51429,5.3e-4 -0.93108,0.41736 -0.93164,0.931637 v 12.720697 c 5.2e-4,0.514291 0.41735,0.931071 0.93164,0.93164 h 0.57422 V 104.44565 H 211.508 c -0.51429,5.3e-4 -0.93108,0.41735 -0.93164,0.93164 v 12.72265 c 5.2e-4,0.51429 0.41735,0.93107 0.93164,0.93164 h 0.57422 v 6.83204 c 5.2e-4,0.51429 0.41734,0.93107 0.93164,0.93164 H 241.174 c 0.51429,-5.3e-4 0.93107,-0.41735 0.93164,-0.93164 v -6.83204 h 0.70899 c 0.51429,-5.3e-4 0.93107,-0.41735 0.93164,-0.93164 v -12.72265 c -5.7e-4,-0.51429 -0.41735,-0.93107 -0.93164,-0.93164 h -0.70117 l 0.11506,-14.105797 m 0.0215,-2.63484 0.0959,-11.75349 0.46875,0.0352 c 0.52492,0.0385 0.97767,-0.36477 1,-0.890622 l 0.52148,-12.71875 c 0.0209,-0.502257 -0.36006,-0.930724 -0.86133,-0.968744 l -0.5625,-0.043 1.17188,-28.601439 0.53516,0.0195 c 0.51299,0.0192 0.94508,-0.37968 0.96679,-0.89257 l 0.51563,-12.61329 c 0.001,-0.0273 0.001,-0.0547 0,-0.082 v 10e-6 c -0.0219,-0.47072 -0.39144,-0.85118 -0.86133,-0.88672 l -0.5625,-0.043 0.27344,-6.65038 c 0.0216,-0.52949 -0.40172,-0.97057 -0.93164,-0.97072 h -9.51954 V 8.3481292 c -5.9e-4,-0.5142897 -0.41735,-0.9310697 -0.93164,-0.9316397 h -12.79491 c -0.51429,5.3e-4 -0.93107,0.41735 -0.93164,0.9316397 v 2.2968688 h -6.82812 c -0.5143,5.3e-4 -0.93108,0.41735 -0.93164,0.93165 v 6.57421 h -0.57422 c -0.51429,5.3e-4 -0.93107,0.41735 -0.93164,0.93164 v 12.76954 c 5.2e-4,0.5143 0.41735,0.93108 0.93164,0.93164 h 0.57422 v 13.655113"
+       id="path2796-8"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 230.75017,40.892994 V 25.217048 c -0.1937,-2.14351 -1.88575,-3.24398 -3.64842,-3.3086 -0.88347,-0.0324 -1.74163,0.21946 -2.38867,0.74415 -0.64421,0.52238 -1.12188,1.31324 -1.23633,2.56641 v 34.578008 c 0.42897,2.144898 2.02368,3.232152 3.60937,3.296862 1.58528,0.0647 3.14336,-0.796707 3.66405,-3.298812 V 43.699309"
+       id="path2955-9"
+       sodipodi:nodetypes="ccssccscc" />
+    <path
+       d="m 15.979446,-27.295609 -6.7271204,0.74456 c -0.51026,0.0572 -0.89617,0.48849 -0.89648,1.00195 v 4.76953 c 5.6e-4,0.55637 0.45145,1.00725 1.00781,1.00781 H 42.801156 c 0.55637,-5.6e-4 1.00726,-0.45144 1.00781,-1.00781 v -4.05078 h 1.22461 v 4.05078 c 5.6e-4,0.55637 0.45145,1.00725 1.00781,1.00781 h 58.596664 m 1.60362,0 h 7.34269 c 0.55637,-5.5e-4 1.00727,-0.45144 1.00782,-1.00781 v -16.30469 c -4.7e-4,-0.56408 -0.46336,-1.01817 -1.02735,-1.00781 l 1e-5,-1.4e-4 c -0.0307,6e-4 -0.0613,0.003 -0.0918,0.006 l -95.902074,10.61445"
        style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 43.965837,97.870955 h 20.510307 c 0.650504,1.6e-4 1.177891,-0.527217 1.177731,-1.177724 v -3.587882 l 17.973358,0.06578 c 0.632907,-0.023 1.225264,-0.701428 1.225744,-1.334758 V 67.773319 h 1.980458 c 0.650507,1.6e-4 1.177894,-0.52723 1.177734,-1.17774 V 52.538691 m 0,-3.779762 v -9.805921 c 1.6e-4,-0.65051 -0.527227,-1.177902 -1.177734,-1.177743 H 84.852977 V 11.195186 c 1.6e-4,-0.65051 -0.527217,-0.990801 -1.177724,-0.990639 h -1.228501 c 0.0908,-0.170112 0.138397,-0.5470097 0.138667,-0.7398304 V 6.9925595 m 0,-3.0238095 V 0.42174986 h 2.177718 c 0.792977,9e-5 1.359324,-0.76782092 1.124994,-1.52539096 C 82.794399,-11.140902 78.413633,-20.234464 72.276879,-27.027464 66.140132,-33.820475 58.19372,-38.285565 48.247724,-38.904425 c -0.677754,-0.0418 -1.250321,0.49673 -1.249991,1.17578 v 1.62891 h -3.982409 v -1.62891 c 2.7e-4,-0.64146 -0.512947,-1.16511 -1.154284,-1.17773 v -9e-5 c -0.0398,-6.8e-4 -0.0795,6.6e-4 -0.119137,0.004 -9.629126,0.78417 -17.378344,4.88423 -23.478388,11.464841 -6.100047,6.58061 -10.5902985,15.601693 -13.9901487,26.3261719 -0.2406867,0.75938104 0.32643,1.53361996 1.1230334,1.53320196 H 7.4061565 V 3.0238095 m 0,2.8348215 v 3.6060856 c 2.7e-4,0.1928207 0.0479,0.5697184 0.13867,0.7398304 H 6.5487431 C 5.8982364,10.204385 5.3708497,10.544676 5.3710097,11.195186 V 37.775265 H 3.2753229 c -0.6505037,-1.59e-4 -1.1778804,0.527233 -1.1777204,1.177743 v 9.238956 m 0,4.346727 v 14.056888 c -1.6e-4,0.65051 0.5272167,1.1779 1.1777204,1.17774 h 2.0956868 v 24.19726 c -1.6e-4,0.65051 0.5272267,1.1779 1.1777334,1.17774 H 24.431449 v 3.544912 c -1.6e-4,0.650507 0.527217,1.177884 1.177724,1.177724 h 15.77922"
-       id="path2525"
-       sodipodi:nodetypes="cccccccccccccccccccccccscccccsscsscccccccccccccccccccccc" />
+       id="path4287" />
     <path
-       sodipodi:nodetypes="ccscccscscccsccccscc"
-       id="path2533"
-       transform="translate(-487.225, -504.281)"
-       d="m 531.59197,582.07227 h 22.80647 c 1.03373,-0.34015 1.93861,-0.69372 2.57617,-1.26563 0.66008,-0.59212 1.15352,-1.41855 1.33594,-3.0332 v -20.95325 m 0,-4.53571 v -36.66729 c 0,-0.1125 -0.0448,-0.86318 -0.17578,-1.89844 -0.13094,-1.03526 -0.3448,-2.41613 -0.67579,-4.02148 -0.66197,-3.21072 -1.79234,-7.31839 -3.64257,-11.3711 -3.69426,-8.09178 -10.09412,-15.85523 -21.54493,-16.41797 m -2.95513,0.34503 c -8.02158,1.44908 -13.37252,6.80699 -16.96479,13.15107 -4.02186,7.10276 -5.69707,15.41114 -6.03515,20.23047 v 37.21667 m 0,3.40179 v 21.46357 c 0.13786,1.11986 0.42481,2.04049 0.98828,2.74804 0.5579,0.70057 1.42383,1.26616 2.95312,1.60743 h 19.46327"
+       id="path4287-2"
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 177.04988,-7.2020698 -6.72708,0.74456 c -0.51026,0.0572 -0.89618,0.4884901 -0.89648,1.0019501 v 4.76953002 c 5.6e-4,0.55636997 0.45144,1.00724994 1.00781,1.00780994 h 33.43744 c 0.55636,-5.6e-4 1.00725,-0.45143997 1.0078,-1.00780994 V -4.7368097 h 1.22461 v 4.05078002 c 5.3e-4,0.55636997 0.45145,1.00724994 1.00782,1.00780994 h 58.59664 m 1.60362,0 h 7.3427 c 0.55637,-5.5e-4 1.00726,-0.45143997 1.00782,-1.00780994 V -16.990723 c -5.3e-4,-0.56408 -0.46337,-1.01817 -1.02735,-1.00781 l 1e-5,-1.4e-4 c -0.0307,6.1e-4 -0.0613,0.003 -0.0918,0.006 l -95.90205,10.6144532" />
+    <path
+       sodipodi:nodetypes="ccscccccccccccccccccccccccccccccccccccsccc"
+       id="path3645"
+       d="m 168.51796,13.908062 -18.5866,-1.55785 c -1.04003,-0.39832 -1.95885,-0.8328 -2.66993,-1.51562 -0.72303,-0.6943 -1.29209,-1.6573501 -1.60937,-3.2675801 V -13.350958 c 0.92114,-3.22119 2.20725,-3.87699 3.90625,-4.49219 l 17.23665,-1.45346 m 3.62742,-0.30587 31.8996,-2.68989 c 0.0763,-0.007 0.15164,-0.0216 0.22461,-0.0449 2.26129,-0.71356 3.43779,-2.2389 3.92188,-3.53711 0.48408,-1.29821 0.36132,-2.44531 0.36132,-2.44531 -0.0549,-0.52396 -0.49661,-0.92185 -1.02343,-0.92188 h -0.55664 v -5.12304 c -5e-5,-0.6023 -0.51506,-1.07581 -1.11524,-1.02539 l -34.80812,2.90598 m -4.41266,0.36839 -31.29095,2.61235 c -0.53321,0.0446 -0.9433,0.49032 -0.94336,1.02539 v 14.78125 h -3.99804 c -0.56851,-1.2e-4 -1.02941,0.46078 -1.0293,1.02929 v 8.0173299 m 0,4.00903998 V 7.0240619 c -1.2e-4,0.56851 0.46079,1.02942 1.0293,1.0293 h 3.99804 V 22.818982 c 6e-5,0.53507 0.41015,0.98081 0.94336,1.02539 l 32.88912,2.77675 m 4.13576,0.34917 33.48685,2.82721 c 0.60018,0.0504 1.11519,-0.42309 1.11524,-1.02539 v -5.1543 h 0.55664 c 0.57467,1.8e-4 1.03813,-0.47032 1.02929,-1.04492 v 3e-5 c -0.0295,-2.00109 -0.60139,-3.38781 -1.50586,-4.26367 -0.90447,-0.87587 -1.97845,-1.19664 -2.83398,-1.51563 -0.088,-0.0326 -0.17996,-0.053 -0.27344,-0.0606 l -30.19853,-2.53111"
        style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccc"
+       id="path3125"
+       d="M 52.652077,44.10949 H 3.453637 c -0.49285,2.6e-4 -0.89231,0.39973 -0.89258,0.89258 v 63.1795 m 0,2.53906 v 17.62909 c 2.7e-4,0.49285 0.39973,0.89232 0.89258,0.89258 h 50.52136 m 2.03408,0 h 59.977763 c 0.49285,-2.6e-4 0.89232,-0.39973 0.89258,-0.89258 v -22.26367 c -2.6e-4,-0.49285 -0.39973,-0.89232 -0.89258,-0.89258 h -0.65039 V 68.181754 h 0.65039 c 0.49285,-2.6e-4 0.89231,-0.39972 0.89258,-0.89257 v -5.61251 m 0,-2.40543 V 45.00207 c -2.6e-4,-0.49285 -0.39973,-0.89232 -0.89258,-0.89258 H 54.940007"
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccccccccsccccccccccccccccccc"
+       id="path2384"
+       d="m 163.47725,128.89508 h 36.94218 c 0.52965,3e-5 0.95903,-0.42934 0.95899,-0.95899 v -27.47852 h 2.32422 c 0.52965,4e-5 0.95902,-0.42934 0.95898,-0.958978 v -9.727021 m 0,-1.6064 V 71.996642 c 3e-5,-0.52964 -0.42934,-0.95902 -0.95898,-0.95899 h -0.13282 -2.1914 V 45.219299 c 4e-5,-0.52965 -0.42934,-0.959029 -0.95899,-0.95899 h -38.1706 m -1.88988,0 h -36.85749 c -0.52965,-2.9e-5 -0.95902,0.42934 -0.95898,0.95899 v 25.818353 h -2.31445 c -0.52965,-4e-5 -0.95902,0.42933 -0.95899,0.95899 v 15.034599 m 0,1.7954 v 10.671951 c -4e-5,0.529638 0.42934,0.959028 0.95899,0.958978 h 2.31445 v 27.47852 c -4e-5,0.52965 0.42933,0.95902 0.95898,0.95899 h 38.1804"
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccsccsccccsccscc"
+       id="path2386"
+       d="M 135.96826,86.842261 V 107.6978 c 0.34749,1.75117 0.99511,3.12929 2.00391,4.13867 1.01494,1.01554 2.42405,1.70672 4.45117,1.98633 h 39.56445 c 1.66476,-0.39441 2.99716,-1.03192 3.9668,-1.9668 0.97863,-0.94354 1.63552,-2.20213 1.90625,-4 V 86.180791 m 0,-2.36235 V 60.732966 c -0.32623,-1.85674 -1.0362,-3.16622 -2.08399,-4.124997 -1.0471,-0.95816 -2.47835,-1.585399 -4.29492,-1.914059 H 142.7124 c -1.74269,0.363389 -3.29503,0.79562 -4.43359,1.726559 -1.15364,0.943277 -2.02923,2.424787 -2.31055,5.320307 v 23.022605"
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+       id="path148"
+       d="m 3.4209654,12.425756 v 12.29441 c -2.8e-4,0.532979 0.43186,0.96512 0.96484,0.96484 h 2.24414 v 13.355467 c -2.91e-4,0.532993 0.43186,0.965131 0.964846,0.96484 h 7.9706996 c 0.53298,2.65e-4 0.96512,-0.431858 0.96484,-0.96484 v -0.623049 h 10.76953 v 0.623049 c -2.9e-4,0.532993 0.43186,0.965131 0.96485,0.96484 h 30.39453 c 0.53299,2.65e-4 0.96512,-0.431858 0.96484,-0.96484 v -0.623049 h 10.86915 v 0.623049 c -2.7e-4,0.532993 0.43185,0.965131 0.96484,0.96484 h 30.427739 c 0.53297,2.65e-4 0.96512,-0.431858 0.96484,-0.96484 v -0.623049 h 10.73632 v 0.623049 c -2.6e-4,0.532993 0.43186,0.965131 0.96485,0.96484 h 7.83984 c 0.53298,2.65e-4 0.96512,-0.431858 0.96484,-0.96484 V 11.223034 m 0,-3.0735902 V -15.100146 c 2.7e-4,-0.53299 -0.43185,-0.96513 -0.96484,-0.96485 h -7.83984 c -0.53299,-2.9e-4 -0.96514,0.43186 -0.96485,0.96485 v 0.62304 h -10.73632 v -0.62304 c 2.6e-4,-0.53299 -0.43185,-0.96513 -0.96484,-0.96485 H 71.458071 c -0.53299,-2.9e-4 -0.96514,0.43186 -0.96484,0.96485 v 0.62304 h -10.86915 v -0.62304 c 2.7e-4,-0.53299 -0.43185,-0.96513 -0.96484,-0.96485 h -30.39453 c -0.53299,-2.9e-4 -0.96514,0.43186 -0.96485,0.96485 v 0.62304 h -10.76953 v -0.62304 c 3e-4,-0.53299 -0.43185,-0.96513 -0.96484,-0.96485 H 7.5947914 c -0.532986,-2.9e-4 -0.965136,0.43186 -0.964846,0.96485 v 13.1562501 h -2.24414 c -0.53298,-2.91e-4 -0.96512,0.43186 -0.96484,0.96483999 V 9.7530538"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.585081,25.092485 h -16.67688 c -2.1435,0.193698 -3.24397,1.885749 -3.30859,3.648429 -0.0324,0.88347 0.21945,1.741631 0.74414,2.388668 0.52238,0.64421 1.31325,1.121881 2.56641,1.236332 h 34.578129 c 2.14492,-0.428972 3.23217,-2.023681 3.29688,-3.609368 0.0647,-1.585291 -0.79671,-3.143372 -3.29883,-3.664061 H 93.324601"
+       id="path2752-5"
+       sodipodi:nodetypes="ccssccscc" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.863091,-8.5834779 h -16.67688 c -2.1435,0.1937 -3.24397,1.88575 -3.30859,3.64843 -0.0324,0.88347 0.21945,1.741631 0.74414,2.38867 0.52238,0.644211 1.31325,1.121881 2.56641,1.236331 H 108.7663 c 2.14492,-0.42897 3.23217,-2.023681 3.29688,-3.609371 0.0647,-1.58529 -0.79671,-3.14337 -3.29883,-3.66406 H 93.602611"
+       id="path2752-3"
+       sodipodi:nodetypes="ccssccscc" />
+    <path
+       sodipodi:nodetypes="ccssccscc"
+       id="path3079"
+       d="m 90.863091,-8.5834779 h -16.67688 c -2.1435,0.1937 -3.24397,1.88575 -3.30859,3.64843 -0.0324,0.88347 0.21945,1.741631 0.74414,2.38867 0.52238,0.644211 1.31325,1.121881 2.56641,1.236331 H 108.7663 c 2.14492,-0.42897 3.23217,-2.023681 3.29688,-3.609371 0.0647,-1.58529 -0.79671,-3.14337 -3.29883,-3.66406 H 93.602611"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 38.211001,-8.5443369 h -16.67688 c -2.1435,0.1937 -3.24397,1.88575 -3.30859,3.64843 -0.0324,0.88347 0.21945,1.74163 0.74414,2.38867 0.52238,0.64421 1.31325,1.12188 2.56641,1.23633 h 34.57812 c 2.14492,-0.42897 3.23217,-2.02368 3.29688,-3.60937 0.0647,-1.58529 -0.79671,-3.14337 -3.29883,-3.66406 h -15.16173"
+       id="path2752-6"
+       sodipodi:nodetypes="ccssccscc" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 38.196691,25.149746 h -16.67688 c -2.1435,0.193701 -3.24397,1.885751 -3.30859,3.648429 -0.0324,0.883471 0.21945,1.741631 0.74414,2.388671 0.52238,0.64421 1.31325,1.121881 2.56641,1.236329 h 34.57812 c 2.14492,-0.428969 3.23217,-2.023678 3.29688,-3.609368 0.0647,-1.585291 -0.79671,-3.143372 -3.29883,-3.664061 h -15.16173"
+       id="path2752-8"
+       sodipodi:nodetypes="ccssccscc" />
+    <path
+       sodipodi:nodetypes="ccssccscc"
+       id="path2752"
+       d="m 262.02166,40.544918 v 16.67688 c 0.1937,2.1435 1.88575,3.24397 3.64842,3.30859 0.88347,0.0324 1.74163,-0.21945 2.38867,-0.74414 0.64421,-0.52238 1.12188,-1.31325 1.23633,-2.56641 v -34.57812 c -0.42897,-2.14492 -2.02368,-3.23217 -3.60937,-3.29688 -1.58528,-0.0647 -3.14336,0.79671 -3.66405,3.29883 v 15.16173"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+       id="path2796"
+       d="m 280.68961,86.047552 v -12.34135 h 0.57422 c 0.51429,-5.3e-4 0.93107,-0.41735 0.93164,-0.93164 V 60.053858 c -5.3e-4,-0.51429 -0.41735,-0.93107 -0.93164,-0.93164 h -0.57422 v -28.60938 h 0.57422 c 0.51429,-5.3e-4 0.93107,-0.41735 0.93164,-0.93164 v -12.72265 c -5.3e-4,-0.51429 -0.41735,-0.93107 -0.93164,-0.93164 h -0.57422 V 9.0948676 c -5.3e-4,-0.5142907 -0.41735,-0.9310704 -0.93164,-0.9316404 h -28.16014 c -0.51429,5.3e-4 -0.93107,0.4173497 -0.93164,0.9316404 v 6.8320404 h -0.70899 c -0.51429,5.3e-4 -0.93107,0.41735 -0.93164,0.93164 v 12.72265 c 5.7e-4,0.51429 0.41735,0.93107 0.93164,0.93164 h 0.70117 l -0.11506,14.10581 m -0.0215,2.63484 -0.0959,11.75349 -0.46875,-0.0352 c -0.52492,-0.0385 -0.97767,0.36477 -1,0.89062 l -0.52148,12.718754 c -0.0209,0.50227 0.36006,0.93073 0.86133,0.96875 l 0.5625,0.043 -1.17188,28.601568 -0.53516,-0.0195 c -0.51299,-0.0192 -0.94508,0.37969 -0.96679,0.89258 l -0.51563,12.61328 c -0.001,0.0273 -0.001,0.0547 0,0.082 v -10e-6 c 0.0219,0.47072 0.39144,0.85118 0.86133,0.88672 l 0.5625,0.043 -0.27344,6.65039 c -0.0216,0.52948 0.40172,0.97056 0.93164,0.97071 h 9.51954 v 2.29687 c 5.8e-4,0.51429 0.41735,0.93107 0.93164,0.93164 h 12.79491 c 0.51429,-5.7e-4 0.93107,-0.41735 0.93164,-0.93164 v -2.29687 h 6.82812 c 0.5143,-5.8e-4 0.93107,-0.41735 0.93164,-0.93165 v -6.57421 h 0.57422 c 0.51429,-5.8e-4 0.93107,-0.41735 0.93164,-0.93164 V 103.1066 c -5.3e-4,-0.51429 -0.41735,-0.93107 -0.93164,-0.93164 h -0.57422 V 88.519802"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccssccscc"
+       id="path2955"
+       d="M 262.02166,94.065642 V 109.7416 c 0.1937,2.1435 1.88575,3.24397 3.64842,3.30859 0.88347,0.0324 1.74163,-0.21945 2.38867,-0.74414 0.64421,-0.52238 1.12188,-1.31325 1.23633,-2.56641 V 75.161512 c -0.42897,-2.14492 -2.02368,-3.23217 -3.60937,-3.29688 -1.58528,-0.0647 -3.14336,0.79671 -3.66405,3.29883 v 16.09585"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
-     style="display:inline;opacity:1"
-     inkscape:label="Gcode"
+     transform="translate(0,39.039)"
+     inkscape:groupmode="layer"
      id="layer2"
-     inkscape:groupmode="layer">
+     inkscape:label="Gcode"
+     style="display:inline;opacity:1">
+    <g
+       gcodetools="Gcodetools orientation group"
+       transform="translate(0,-38.237191)"
+       id="g3972">
+      <g
+         gcodetools="Gcodetools orientation point (2 points)"
+         id="g3962">
+        <path
+           style="fill:#000000;stroke:none"
+           gcodetools="Gcodetools orientation point arrow"
+           d="m 0,170 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 v 0 l 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+           id="path3956" />
+        <text
+           x="10"
+           xml:space="preserve"
+           y="160"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools orientation point text"
+           id="text3960"><tspan
+             x="10"
+             y="160"
+             sodipodi:role="line"
+             id="tspan3958">(0.0; 0.0; 0.0)</tspan></text>
+      </g>
+      <g
+         gcodetools="Gcodetools orientation point (2 points)"
+         id="g3970">
+        <path
+           style="fill:#000000;stroke:none"
+           gcodetools="Gcodetools orientation point arrow"
+           d="m 100,170 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 v 0 l 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
+           id="path3964" />
+        <text
+           x="110"
+           xml:space="preserve"
+           y="160"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
+           gcodetools="Gcodetools orientation point text"
+           id="text3968"><tspan
+             x="110"
+             y="160"
+             sodipodi:role="line"
+             id="tspan3966">(100.0; 0.0; 1.75)</tspan></text>
+      </g>
+    </g>
     <g
        gcodetools="Gcodetools tool definition"
-       transform="matrix(0.50142918,0,0,0.52018348,55.545677,120.45842)"
-       id="g183">
+       transform="matrix(0.48826546,0,0,0.38013265,13.013218,144.91217)"
+       id="g4089">
       <path
          gcodetools="Gcodetools tool background"
          style="fill-opacity:0.5;stroke:#444444"
          d="M -20,-20 H 380 V 155 H -20 Z"
-         id="path101" />
+         id="path4007" />
       <g
          gcodetools="Gcodetools tool parameter"
-         id="g111">
+         id="g4017">
         <text
            x="0"
            xml:space="preserve"
            y="0"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
            gcodetools="Gcodetools tool definition field name"
-           id="text105"><tspan
+           id="text4011"><tspan
              x="0"
              y="0"
              sodipodi:role="line"
-             id="tspan103">name</tspan></text>
+             id="tspan4009">name</tspan></text>
         <text
            x="150"
            xml:space="preserve"
            y="0"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
            gcodetools="Gcodetools tool definition field value"
-           id="text109"><tspan
+           id="text4015"><tspan
              x="150"
              y="0"
              sodipodi:role="line"
-             id="tspan107">Cylindrical cutter</tspan></text>
+             id="tspan4013">Cylindrical cutter</tspan></text>
       </g>
       <g
          gcodetools="Gcodetools tool parameter"
-         id="g121">
+         id="g4027">
         <text
            x="0"
            xml:space="preserve"
            y="20"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
            gcodetools="Gcodetools tool definition field name"
-           id="text115"><tspan
+           id="text4021"><tspan
              x="0"
              y="20"
              sodipodi:role="line"
-             id="tspan113">id</tspan></text>
+             id="tspan4019">id</tspan></text>
         <text
            x="150"
            xml:space="preserve"
            y="20"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
            gcodetools="Gcodetools tool definition field value"
-           id="text119"><tspan
+           id="text4025"><tspan
              x="150"
              y="20"
              sodipodi:role="line"
-             id="tspan117">Cylindrical cutter 0001</tspan></text>
+             id="tspan4023">Cylindrical cutter 0001</tspan></text>
       </g>
       <g
          gcodetools="Gcodetools tool parameter"
-         id="g131">
+         id="g4037">
         <text
            x="0"
            xml:space="preserve"
            y="35"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
            gcodetools="Gcodetools tool definition field name"
-           id="text125"><tspan
+           id="text4031"><tspan
              x="0"
              y="35"
              sodipodi:role="line"
-             id="tspan123">diameter</tspan></text>
+             id="tspan4029">diameter</tspan></text>
         <text
            x="150"
            xml:space="preserve"
            y="35"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
            gcodetools="Gcodetools tool definition field value"
-           id="text129"><tspan
+           id="text4035"><tspan
              x="150"
              y="35"
              sodipodi:role="line"
-             id="tspan127">1.6</tspan></text>
+             id="tspan4033">10</tspan></text>
       </g>
       <g
          gcodetools="Gcodetools tool parameter"
-         id="g141">
+         id="g4047">
         <text
            x="0"
            xml:space="preserve"
            y="50"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
            gcodetools="Gcodetools tool definition field name"
-           id="text135"><tspan
+           id="text4041"><tspan
              x="0"
              y="50"
              sodipodi:role="line"
-             id="tspan133">feed</tspan></text>
+             id="tspan4039">feed</tspan></text>
         <text
            x="150"
            xml:space="preserve"
            y="50"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
            gcodetools="Gcodetools tool definition field value"
-           id="text139"><tspan
+           id="text4045"><tspan
              x="150"
              y="50"
              sodipodi:role="line"
-             id="tspan137">250</tspan></text>
+             id="tspan4043">400</tspan></text>
       </g>
       <g
          gcodetools="Gcodetools tool parameter"
-         id="g151">
+         id="g4057">
         <text
            x="0"
            xml:space="preserve"
            y="65"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
            gcodetools="Gcodetools tool definition field name"
-           id="text145"><tspan
+           id="text4051"><tspan
              x="0"
              y="65"
              sodipodi:role="line"
-             id="tspan143">penetration angle</tspan></text>
+             id="tspan4049">penetration angle</tspan></text>
         <text
            x="150"
            xml:space="preserve"
            y="65"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
            gcodetools="Gcodetools tool definition field value"
-           id="text149"><tspan
+           id="text4055"><tspan
              x="150"
              y="65"
              sodipodi:role="line"
-             id="tspan147">90</tspan></text>
+             id="tspan4053">90</tspan></text>
       </g>
       <g
          gcodetools="Gcodetools tool parameter"
-         id="g161">
+         id="g4067">
         <text
            x="0"
            xml:space="preserve"
            y="80"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
            gcodetools="Gcodetools tool definition field name"
-           id="text155"><tspan
+           id="text4061"><tspan
              x="0"
              y="80"
              sodipodi:role="line"
-             id="tspan153">penetration feed</tspan></text>
+             id="tspan4059">penetration feed</tspan></text>
         <text
            x="150"
            xml:space="preserve"
            y="80"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
            gcodetools="Gcodetools tool definition field value"
-           id="text159"><tspan
+           id="text4065"><tspan
              x="150"
              y="80"
              sodipodi:role="line"
-             id="tspan157">100</tspan></text>
+             id="tspan4063">100</tspan></text>
       </g>
       <g
          gcodetools="Gcodetools tool parameter"
-         id="g171">
+         id="g4077">
         <text
            x="0"
            xml:space="preserve"
            y="95"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
            gcodetools="Gcodetools tool definition field name"
-           id="text165"><tspan
+           id="text4071"><tspan
              x="0"
              y="95"
              sodipodi:role="line"
-             id="tspan163">depth step</tspan></text>
+             id="tspan4069">depth step</tspan></text>
         <text
            x="150"
            xml:space="preserve"
            y="95"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
            gcodetools="Gcodetools tool definition field value"
-           id="text169"><tspan
+           id="text4075"><tspan
              x="150"
              y="95"
              sodipodi:role="line"
-             id="tspan167">2</tspan></text>
+             id="tspan4073">1</tspan></text>
       </g>
       <g
          gcodetools="Gcodetools tool parameter"
-         id="g181">
+         id="g4087">
         <text
            x="0"
            xml:space="preserve"
            y="110"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
            gcodetools="Gcodetools tool definition field name"
-           id="text175"><tspan
+           id="text4081"><tspan
              x="0"
              y="110"
              sodipodi:role="line"
-             id="tspan173">tool change gcode</tspan></text>
+             id="tspan4079">tool change gcode</tspan></text>
         <text
            x="150"
            xml:space="preserve"
            y="110"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
            gcodetools="Gcodetools tool definition field value"
-           id="text179"><tspan
+           id="text4085"><tspan
              x="150"
              y="110"
              sodipodi:role="line"
-             id="tspan177">(None)</tspan></text>
-      </g>
-    </g>
-    <g
-       gcodetools="Gcodetools orientation group"
-       id="g296">
-      <g
-         gcodetools="Gcodetools orientation point (2 points)"
-         id="g286">
-        <path
-           style="fill:#000000;stroke:none"
-           gcodetools="Gcodetools orientation point arrow"
-           d="M 0,100 2.9375,93.65625 3.75,95.5625 10.59375,88.71875 v 0 l 0.6875,0.6875 L 4.4375,96.25 6.34375,97.0625 Z"
-           id="path280" />
-        <text
-           x="10"
-           xml:space="preserve"
-           y="90"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
-           gcodetools="Gcodetools orientation point text"
-           id="text284"><tspan
-             x="10"
-             y="90"
-             sodipodi:role="line"
-             id="tspan282">(0.0; 0.0; 0.0)</tspan></text>
-      </g>
-      <g
-         gcodetools="Gcodetools orientation point (2 points)"
-         id="g294">
-        <path
-           style="fill:#000000;stroke:none"
-           gcodetools="Gcodetools orientation point arrow"
-           d="m 100,100 2.9375,-6.34375 0.8125,1.90625 6.84375,-6.84375 v 0 l 0.6875,0.6875 -6.84375,6.84375 1.90625,0.8125 z"
-           id="path288" />
-        <text
-           x="110"
-           xml:space="preserve"
-           y="90"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'DejaVu Sans';fill:#000000;fill-opacity:1;stroke:none"
-           gcodetools="Gcodetools orientation point text"
-           id="text292"><tspan
-             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-             x="110"
-             y="90"
-             sodipodi:role="line"
-             id="tspan290">(100.0; 0.0; -1.5875)</tspan></text>
+             id="tspan4083">(None)</tspan></text>
       </g>
     </g>
   </g>
@@ -385,6 +469,4 @@
     <inkscape:name>CNC</inkscape:name>
     <inkscape:date>2020-06-17</inkscape:date>
   </inkscape:templateinfo>
-  <g
-     id="g2928" />
 </svg>
